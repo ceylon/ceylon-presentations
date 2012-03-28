@@ -9,6 +9,8 @@ Templates for Keynote, Powerpoint and OpenOffice are available under `/templates
 Keynote users are encouraged to use the `.kth` file. Open the file and do `Save Theme...` 
 in the `File` menu.
 
+Original work comes from <https://issues.jboss.org/browse/DESIGN-273>
+
 ## License
 
 The content of this repository is released under 
